@@ -3759,3 +3759,14 @@
 			}
 
 	}
+
+	#catheaderpic {
+		display: block;
+		text-align: center;
+		margin: auto;
+		width: 50%;
+	}
+
+	#sitename {
+		display: inline-block;
+	}
